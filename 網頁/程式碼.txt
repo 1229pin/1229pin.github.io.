@@ -1,0 +1,43 @@
+<!DOCTYPE html>文件類型
+<html>根元素
+  <head>所有資訊(css、、網頁說明)
+    <meta charset="utf-8">字元編碼
+    <title>網頁名稱</title>
+  </head>
+  <body>瀏覽者閱覽內容
+  </body>
+</html> 
+
+
+
+放置圖片
+<img src="圖片位置" alt="備註">
+圖片名稱、內容
+<h1> </h1>
+<h2> </h2>
+
+<h6> </h6>
+
+文字
+<p>文字</p>
+<strong>粗體</strong>
+
+清單
+1.無順序(Unordered lists)
+<ul>
+<li></li>
+</ul>
+2.有順序(Ordered lists)
+<ol>
+<li></li>
+</ol>
+
+超連結
+<a href="https;//">文字</a>
+
+ID
+<p id="ID">
+
+CLASS
+<p class="CLASS">
+

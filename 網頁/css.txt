@@ -1,0 +1,20 @@
+選擇器
+1.元素(p、a)
+2.ID(#ID)
+3.CLASS(.CLASS)
+4.屬性(img[src])(控制src但不控制img)
+5.虛擬(a:hover)(游標停止時改變)
+
+
+color 顏色
+width 寬度
+border 邊框
+padding 內容周圍的空格
+margin 元素外空間
+font-size 文字大小
+text-align 文字對齊(center)
+line-height 行高
+letter-spacing 字母間距
+background-color 背景顏色
+text-shadow 陰影
+display 設置元素的顯示模式
