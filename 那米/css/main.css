@@ -1,0 +1,106 @@
+#back{
+background-color:rgb(178, 231, 182) ;
+}
+
+img{
+padding: 10px;
+}
+
+p{
+margin: 0px;    
+}
+.center{
+margin: 0% auto;
+}
+
+.floatleft{
+float: left;
+}
+
+.titles{
+font-size: 25px;
+margin: 0px;
+}
+
+.headlinecenter{
+position:absolute;
+top: 53%;
+left: 50%;
+transform: translate(-50%,-50%);
+font-size: 60px;
+}
+
+
+#Header { 
+  width: 1600px;
+  height: 10px;
+  text-align: center;
+  line-height: 0px;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: rgb(178, 231, 182);
+}
+
+#Body{
+width: 1600px;
+height: 1200px;
+text-align: center;
+line-height: 0px;
+font-weight: bold;
+background-color: rgb(228, 212, 141);
+}
+
+#lbody{
+margin: 0px;
+width: 15%;
+height: auto;
+background-color: blanchedalmond;
+}
+
+#rbody{
+margin: 0px;
+width: 85%;
+height: auto;
+}
+
+#bighead{
+    width: 240px;
+    height:240px ;
+    background-color: cadetblue;
+
+}
+
+#name{
+    width: 240px;
+    height: 80px;
+    background-color: cornflowerblue;
+    line-height: 80px;
+}
+
+#about{
+    width: 240px;
+    height: auto;
+    background-color: lightcyan;
+    line-height: 80px;
+}
+
+#headline{
+position: relative;
+width: 1360px;
+height: 280px;
+}
+
+#dog{
+    width: 220px;
+    height: 180px;
+}
+
+#nami{
+font-size: 40px;
+}
+
+#headlineimg{
+padding: 0px;
+width: 1360px;
+height: 280px;
+}
